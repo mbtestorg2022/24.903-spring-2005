@@ -7,41 +7,683 @@ uid: f30c455e-d5a3-93c4-f643-3b5af6716f6c
 The calendar below provides information on the course's lecture (L) and review (R) sessions.  
  
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 |  {{< br >}}{{< br >}} Overview {{< br >}}{{< br >}} Meaning {{< br >}}{{< br >}} Grice on Non-natural Meaning {{< br >}}{{< br >}}  | &nbsp; |
-| L2 |  {{< br >}}{{< br >}} Concepts of Meaning {{< br >}}{{< br >}} Circularity/Holism {{< br >}}{{< br >}} Truth-Conditions {{< br >}}{{< br >}}  | &nbsp; |
-| L3 |  {{< br >}}{{< br >}} More on Truth-Conditions {{< br >}}{{< br >}} Meta-language vs. Object Language {{< br >}}{{< br >}} Semantic Properties of Sentences {{< br >}}{{< br >}} Some Obvious Shortcomings of Truth-Conditional Semantics (Slang, Honorifics) {{< br >}}{{< br >}}  | &nbsp; |
-| L4 |  {{< br >}}{{< br >}} Truth-Conditions {{< br >}}{{< br >}} Propositional Logic {{< br >}}{{< br >}} Truth-Tables {{< br >}}{{< br >}} The Connectives {{< br >}}{{< br >}}  | Problem set 1 due |
-| L5 |  {{< br >}}{{< br >}} Tautologies, Contradictions {{< br >}}{{< br >}} De Morgan's Laws {{< br >}}{{< br >}} The Material Conditional {{< br >}}{{< br >}}  | &nbsp; |
-| L6 |  {{< br >}}{{< br >}} The Material Conditional (cont.), as an analysis of "if" {{< br >}}{{< br >}} Initial Plausibility {{< br >}}{{< br >}} "Paradoxes" {{< br >}}{{< br >}} Pragmatic Inferences {{< br >}}{{< br >}}  | &nbsp; |
-| L7 |  {{< br >}}{{< br >}} Pragmatic Inferences (cont.) {{< br >}}{{< br >}} Sentence (Truth-Conditional) Meaning vs. Speaker Meaning {{< br >}}{{< br >}} "I'm not hungry" {{< br >}}{{< br >}} Grice's Maxims of Conversation {{< br >}}{{< br >}} Quantity Implicatures {{< br >}}{{< br >}} Pragmatic Strengthening of "possible" (from Portner's Book) {{< br >}}{{< br >}}  | Problem set 2 due |
-| L8 |  {{< br >}}{{< br >}} Gricean Quantity Implicatures (cont.) {{< br >}}{{< br >}} Reasons to prefer a Pragmatic Approach over an Ambiguity Approach {{< br >}}{{< br >}}  | &nbsp; |
-| L9 |  {{< br >}}{{< br >}} Gricean Quantity Implicatures (cont.) {{< br >}}{{< br >}} Applied to Strengthening of "some" and "or" (Truth-Conditionally: Inclusive, Pragmatically Strengthened to Exclusive) {{< br >}}{{< br >}}  | &nbsp; |
-| R1 | Review Session 1 | &nbsp; |
-| L10 | Gricean Story about "or" again | Problem set 3 due |
-| L11 | Supplementing Material Conditional Truth-Conditions for "if" with Pragmatic Inferences | &nbsp; |
-| L12 |  {{< br >}}{{< br >}} Problems for the analysis of "if" as Material Conditional + Pragmatic Implicatures {{< br >}}{{< br >}} New Topic: Compositionality {{< br >}}{{< br >}} Analyzing "Sheila barks" {{< br >}}{{< br >}}  | &nbsp; |
-| L13 |  {{< br >}}{{< br >}} Proper names have as their semantic value individuals {{< br >}}{{< br >}} Predicates have as their semantic value sets of individuals, or functions from individuals to truth-values {{< br >}}{{< br >}} Brief Discussion of Vagueness {{< br >}}{{< br >}}  | Problem set 4 due |
-| L14 |  {{< br >}}{{< br >}} Transitive Predicates (Functions from Individuals to Functions from Individuals to Truth-Values) {{< br >}}{{< br >}} Function Application as the Main Semantic Composition Principle {{< br >}}{{< br >}}  | &nbsp; |
-| L15 |  {{< br >}}{{< br >}} The Lambda-notation for Specifying Functions {{< br >}}{{< br >}} Order of Arguments {{< br >}}{{< br >}} First Introduction to Relative Clauses {{< br >}}{{< br >}}  | &nbsp; |
-| L16 |  {{< br >}}{{< br >}} Review of Semantic System {{< br >}}{{< br >}} Different kinds of Transitivity Alternations, Implicit Arguments {{< br >}}{{< br >}} Informal Discussion of Relative Clauses {{< br >}}{{< br >}}  | Problem set 5 due |
-| L17 |  {{< br >}}{{< br >}} Relative Clauses {{< br >}}{{< br >}} Gaps, Variables, Fillers {{< br >}}{{< br >}} Predicate Abstraction {{< br >}}{{< br >}}  | &nbsp; |
-| L18 |  {{< br >}}{{< br >}} Example Calculation: "Shelby is smart" {{< br >}}{{< br >}} Modifiers {{< br >}}{{< br >}} Predicate Modification {{< br >}}{{< br >}}  | &nbsp; |
-| L19 |  {{< br >}}{{< br >}} "smart dog" vs. "smart person" {{< br >}}{{< br >}} Perhaps, adjectives are not one-place predicates but functions from one-place predicates to one-place predicates {{< br >}}{{< br >}} Other Interesting Cases of Adjectives: "alleged murderer", "canine genius" {{< br >}}{{< br >}}  | &nbsp; |
-| L20 |  {{< br >}}{{< br >}} Perhaps, adjectives are one-place predicates after all, but context-dependent ones {{< br >}}{{< br >}} "Pauline is a tall horse" {{< br >}}{{< br >}}  | &nbsp; |
-| L21 |  {{< br >}}{{< br >}} Definite NPs {{< br >}}{{< br >}} "The" as a function from one-place predicates to individuals {{< br >}}{{< br >}} Partial function only defined for predicates that are true of exactly one individual {{< br >}}{{< br >}} Presuppositions {{< br >}}{{< br >}} The "King of France" {{< br >}}{{< br >}}  | Problem set 6 due |
-| L22 | Quantifiers | &nbsp; |
-| L23 |  {{< br >}}{{< br >}} Natural Language Quantifiers {{< br >}}{{< br >}} Compared to Predicate Logic Quantifiers {{< br >}}{{< br >}} The Meaning of "most" {{< br >}}{{< br >}} Negative Polarity Items {{< br >}}{{< br >}}  | &nbsp; |
-| L24 |  {{< br >}}{{< br >}} Negative Polarity Items (cont.) {{< br >}}{{< br >}} Licensing by Quantifiers in position of Downward Monotonicity (the Fauconnier-Ladusaw Hypothesis) {{< br >}}{{< br >}}  | Problem set 7 due |
-| L25 |  {{< br >}}{{< br >}} Frege vs. Russell on the meaning of "the" {{< br >}}{{< br >}} Attributive vs. Referential Uses of Definite Descriptions {{< br >}}{{< br >}} Pragmatic analysis of the two uses of Definite Descriptions {{< br >}}{{< br >}}  | Squib topic due |
-| L26 |  {{< br >}}{{< br >}} Review of the analysis of "the killer of the black cat" (from problem set) {{< br >}}{{< br >}} More on Referential vs. Attributive {{< br >}}{{< br >}}  | Problem set 8 due |
-| L27 |  {{< br >}}{{< br >}} Tense {{< br >}}{{< br >}} Semantic Values Relative to a Time of Evaluation {{< br >}}{{< br >}} The Past Tense {{< br >}}{{< br >}} Existential Quantification or Referential? {{< br >}}{{< br >}} Partee's Example "I didn't turn off the stove" {{< br >}}{{< br >}} Also: "Last month, I went for a hike" {{< br >}}{{< br >}}  | &nbsp; |
-| R2 | Review Session 2 | &nbsp; |
-| L28 | More on the Past Tense and whether it is Referential or involves Existential Quantification (Contextually Restricted) | &nbsp; |
-| L29 |  {{< br >}}{{< br >}} Aspectual Classes: States, Activities, Achievements, Accomplishments {{< br >}}{{< br >}} Instants vs. Intervals {{< br >}}{{< br >}} Accomplishments are only true of Intervals {{< br >}}{{< br >}}  | &nbsp; |
-| L30 |  {{< br >}}{{< br >}} "The World of Sherlock Holmes" {{< br >}}{{< br >}} Shifting the World of Evaluation {{< br >}}{{< br >}}  | &nbsp; |
-| L31 | Modals | Squib due |
-| R3 | Review Session 3 | &nbsp; |
-| L32 |  {{< br >}}{{< br >}} Conditionals again {{< br >}}{{< br >}} The Strict Implication Analysis {{< br >}}{{< br >}}  | &nbsp; |
-| L33 |  {{< br >}}{{< br >}} Conditionals again (cont.) {{< br >}}{{< br >}} Stalnaker's Definite Analysis {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Overview
+
+Meaning
+
+Grice on Non-natural Meaning
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Concepts of Meaning
+
+Circularity/Holism
+
+Truth-Conditions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+More on Truth-Conditions
+
+Meta-language vs. Object Language
+
+Semantic Properties of Sentences
+
+Some Obvious Shortcomings of Truth-Conditional Semantics (Slang, Honorifics)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Truth-Conditions
+
+Propositional Logic
+
+Truth-Tables
+
+The Connectives
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tautologies, Contradictions
+
+De Morgan's Laws
+
+The Material Conditional
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Material Conditional (cont.), as an analysis of "if"
+
+Initial Plausibility
+
+"Paradoxes"
+
+Pragmatic Inferences
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pragmatic Inferences (cont.)
+
+Sentence (Truth-Conditional) Meaning vs. Speaker Meaning
+
+"I'm not hungry"
+
+Grice's Maxims of Conversation
+
+Quantity Implicatures
+
+Pragmatic Strengthening of "possible" (from Portner's Book)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gricean Quantity Implicatures (cont.)
+
+Reasons to prefer a Pragmatic Approach over an Ambiguity Approach
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gricean Quantity Implicatures (cont.)
+
+Applied to Strengthening of "some" and "or" (Truth-Conditionally: Inclusive, Pragmatically Strengthened to Exclusive)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Gricean Story about "or" again
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Supplementing Material Conditional Truth-Conditions for "if" with Pragmatic Inferences
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problems for the analysis of "if" as Material Conditional + Pragmatic Implicatures
+
+New Topic: Compositionality
+
+Analyzing "Sheila barks"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Proper names have as their semantic value individuals
+
+Predicates have as their semantic value sets of individuals, or functions from individuals to truth-values
+
+Brief Discussion of Vagueness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Transitive Predicates (Functions from Individuals to Functions from Individuals to Truth-Values)
+
+Function Application as the Main Semantic Composition Principle
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Lambda-notation for Specifying Functions
+
+Order of Arguments
+
+First Introduction to Relative Clauses
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review of Semantic System
+
+Different kinds of Transitivity Alternations, Implicit Arguments
+
+Informal Discussion of Relative Clauses
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Relative Clauses
+
+Gaps, Variables, Fillers
+
+Predicate Abstraction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Example Calculation: "Shelby is smart"
+
+Modifiers
+
+Predicate Modification
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"smart dog" vs. "smart person"
+
+Perhaps, adjectives are not one-place predicates but functions from one-place predicates to one-place predicates
+
+Other Interesting Cases of Adjectives: "alleged murderer", "canine genius"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Perhaps, adjectives are one-place predicates after all, but context-dependent ones
+
+"Pauline is a tall horse"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Definite NPs
+
+"The" as a function from one-place predicates to individuals
+
+Partial function only defined for predicates that are true of exactly one individual
+
+Presuppositions
+
+The "King of France"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Quantifiers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Natural Language Quantifiers
+
+Compared to Predicate Logic Quantifiers
+
+The Meaning of "most"
+
+Negative Polarity Items
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Negative Polarity Items (cont.)
+
+Licensing by Quantifiers in position of Downward Monotonicity (the Fauconnier-Ladusaw Hypothesis)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Frege vs. Russell on the meaning of "the"
+
+Attributive vs. Referential Uses of Definite Descriptions
+
+Pragmatic analysis of the two uses of Definite Descriptions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Squib topic due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review of the analysis of "the killer of the black cat" (from problem set)
+
+More on Referential vs. Attributive
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tense
+
+Semantic Values Relative to a Time of Evaluation
+
+The Past Tense
+
+Existential Quantification or Referential?
+
+Partee's Example "I didn't turn off the stove"
+
+Also: "Last month, I went for a hike"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L28
+{{< tdclose >}}
+{{< tdopen >}}
+More on the Past Tense and whether it is Referential or involves Existential Quantification (Contextually Restricted)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L29
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aspectual Classes: States, Activities, Achievements, Accomplishments
+
+Instants vs. Intervals
+
+Accomplishments are only true of Intervals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"The World of Sherlock Holmes"
+
+Shifting the World of Evaluation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L31
+{{< tdclose >}}
+{{< tdopen >}}
+Modals
+{{< tdclose >}}
+{{< tdopen >}}
+Squib due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conditionals again
+
+The Strict Implication Analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L33
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conditionals again (cont.)
+
+Stalnaker's Definite Analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
