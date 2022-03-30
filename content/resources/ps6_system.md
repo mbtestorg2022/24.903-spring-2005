@@ -6,6 +6,7 @@ description: 'This resource includes an assignment on a handout, which gives an 
   Predicate Modification, Two Sample Calculations, and the problem set 6.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-903-language-and-its-structure-iii-semantics-and-pragmatics-spring-2005/93110352b3e7bd602f10d54cacfd104c_ps6_system.pdf
 file_type: application/pdf
+parent_uid: b7c500f9-4194-6619-c916-a35e5c085b9b
 resourcetype: Document
 title: ps6_system.pdf
 uid: 93110352-b3e7-bd60-2f10-d54cacfd104c
